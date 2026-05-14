@@ -12,3 +12,4 @@ Vamos aprender a fazer um commit local.
 
 Atualmente, testamos repetir o processo.
 
+Agora fazemos o processo inverso, de mandar atualizações da nuvem para o local.
