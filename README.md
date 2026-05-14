@@ -10,3 +10,5 @@ Nesse momento, o repositório está em construção e estamos ainda atualizando 
 
 Vamos aprender a fazer um commit local.
 
+Atualmente, testamos repetir o processo.
+
